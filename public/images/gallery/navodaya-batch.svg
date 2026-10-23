@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" fill="none">
+  <rect width="500" height="350" rx="16" fill="#FAF5FF"/>
+  <rect x="40" y="40" width="420" height="230" rx="12" fill="#F3E8FF" stroke="#E9D5FF" stroke-width="2"/>
+  <circle cx="250" cy="120" r="45" fill="#7C3AED"/>
+  <polygon points="250,90 260,115 285,115 265,130 272,155 250,140 228,155 235,130 215,115 240,115" fill="#FDE047"/>
+  <text x="250" y="215" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="16" fill="#581C87">Navodaya Entrance Batch</text>
+  <text x="250" y="238" text-anchor="middle" font-family="'Inter', sans-serif" font-size="13" fill="#7E22CE">Structured test practice &amp; problem solving</text>
+  <rect x="150" y="290" width="200" height="32" rx="16" fill="#FFFFFF"/>
+  <text x="250" y="311" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#7C3AED">Entrance Preparation</text>
+</svg>

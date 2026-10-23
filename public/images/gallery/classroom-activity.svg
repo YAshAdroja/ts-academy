@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" fill="none">
+  <rect width="500" height="350" rx="16" fill="#F0F9FF"/>
+  <rect x="40" y="40" width="420" height="230" rx="12" fill="#E0F2FE" stroke="#BAE6FD" stroke-width="2"/>
+  <circle cx="160" cy="140" r="45" fill="#38BDF8"/>
+  <circle cx="340" cy="140" r="45" fill="#F43F5E"/>
+  <polygon points="250,70 280,130 220,130" fill="#FBBF24"/>
+  <text x="250" y="210" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="16" fill="#0369A1">Interactive Classroom Session</text>
+  <text x="250" y="235" text-anchor="middle" font-family="'Inter', sans-serif" font-size="13" fill="#64748B">Students actively learning concepts</text>
+  <rect x="150" y="290" width="200" height="32" rx="16" fill="#FFFFFF"/>
+  <text x="250" y="311" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#0284C7">TS Academy Classrooms</text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" fill="none">
+  <rect width="500" height="350" rx="16" fill="#FFFBEB"/>
+  <rect x="40" y="40" width="420" height="230" rx="12" fill="#FEF3C7" stroke="#FDE68A" stroke-width="2"/>
+  <circle cx="250" cy="115" r="40" fill="#F59E0B"/>
+  <polygon points="170,140 185,100 200,140" fill="#3B82F6"/>
+  <polygon points="300,140 315,100 330,140" fill="#10B981"/>
+  <text x="250" y="215" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="16" fill="#78350F">Student Celebrations &amp; Events</text>
+  <text x="250" y="238" text-anchor="middle" font-family="'Inter', sans-serif" font-size="13" fill="#92400E">Building confidence, teamwork &amp; joy</text>
+  <rect x="150" y="290" width="200" height="32" rx="16" fill="#FFFFFF"/>
+  <text x="250" y="311" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#D97706">Academy Gatherings</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 260" fill="none">
+  <defs>
+    <linearGradient id="navGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F3E8FF"/>
+      <stop offset="100%" stop-color="#E9D5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="260" rx="20" fill="url(#navGrad)"/>
+  <!-- Target / Bullseye & Trophy representing entrance preparation -->
+  <circle cx="140" cy="120" r="75" fill="#DDD6FE" opacity="0.6"/>
+  <circle cx="140" cy="120" r="55" fill="#C4B5FD" opacity="0.6"/>
+  <circle cx="140" cy="120" r="35" fill="#7C3AED"/>
+  <circle cx="140" cy="120" r="16" fill="#FFFFFF"/>
+  <circle cx="140" cy="120" r="6" fill="#F43F5E"/>
+
+  <!-- Achievement Trophy -->
+  <g transform="translate(230, 60)">
+    <path d="M25 40 C10 40 10 70 25 70" stroke="#F59E0B" stroke-width="6" fill="none"/>
+    <path d="M75 40 C90 40 90 70 75 70" stroke="#F59E0B" stroke-width="6" fill="none"/>
+    <path d="M20 20 L80 20 L75 75 C75 90 60 100 50 100 C40 100 25 90 25 75 Z" fill="#FBBF24"/>
+    <rect x="44" y="100" width="12" height="25" fill="#D97706"/>
+    <rect x="30" y="125" width="40" height="15" rx="4" fill="#92400E"/>
+    <!-- Star on trophy -->
+    <polygon points="50,42 53,50 62,51 55,57 57,66 50,61 43,66 45,57 38,51 47,50" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Navodaya Badge -->
+  <rect x="110" y="215" width="180" height="28" rx="14" fill="#FFFFFF" opacity="0.95"/>
+  <text x="200" y="234" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="12" fill="#6D28D9">Jawahar Navodaya Prep</text>
+</svg>

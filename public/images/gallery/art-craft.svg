@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 350" fill="none">
+  <rect width="500" height="350" rx="16" fill="#FFF1F2"/>
+  <rect x="40" y="40" width="420" height="230" rx="12" fill="#FFE4E6" stroke="#FECDD3" stroke-width="2"/>
+  <!-- Paint palette & brush -->
+  <path d="M220 80 C270 80 320 110 320 160 C320 200 280 200 260 180 C245 165 220 165 210 180 C190 210 140 180 140 140 C140 95 180 80 220 80 Z" fill="#FDA4AF"/>
+  <circle cx="180" cy="115" r="10" fill="#F43F5E"/>
+  <circle cx="220" cy="105" r="10" fill="#FACC15"/>
+  <circle cx="260" cy="115" r="10" fill="#38BDF8"/>
+  <circle cx="280" cy="145" r="10" fill="#10B981"/>
+  <text x="250" y="225" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="700" font-size="16" fill="#9F1239">Art, Craft &amp; Creativity</text>
+  <rect x="150" y="290" width="200" height="32" rx="16" fill="#FFFFFF"/>
+  <text x="250" y="311" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="600" font-size="12" fill="#E11D48">Creative Expression</text>
+</svg>

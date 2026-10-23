@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <rect x="4" y="8" width="64" height="64" rx="16" fill="#0284C7"/>
+  <!-- Open Book & Star -->
+  <path d="M16 48C16 43 21 39 27 39H36V57H27C21 57 16 53 16 48Z" fill="#38BDF8"/>
+  <path d="M56 48C56 43 51 39 45 39H36V57H45C51 57 56 53 56 48Z" fill="#BAE6FD"/>
+  <path d="M36 20L54 30L36 40L18 30L36 20Z" fill="#FACC15"/>
+  <circle cx="36" cy="30" r="3" fill="#E11D48"/>
+  <text x="36" y="66" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="900" font-size="9" fill="#FFFFFF" letter-spacing="0.5">TS</text>
+
+  <!-- Text -->
+  <text x="80" y="38" font-family="'Inter', system-ui, sans-serif" font-weight="800" font-size="24" fill="#0F172A">TOTAL SOLUTION</text>
+  <text x="82" y="58" font-family="'Inter', system-ui, sans-serif" font-weight="600" font-size="14" fill="#0284C7" letter-spacing="1.5">TS ACADEMY &amp; PRESCHOOL</text>
+</svg>

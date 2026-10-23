@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E0F2FE"/>
+      <stop offset="100%" stop-color="#FEF3C7"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284C7"/>
+      <stop offset="100%" stop-color="#0D9488"/>
+    </linearGradient>
+    <linearGradient id="sunGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Soft organic background blobs -->
+  <circle cx="300" cy="250" r="220" fill="url(#bgGrad)" opacity="0.8"/>
+  <circle cx="480" cy="120" r="60" fill="#FDE68A" opacity="0.6"/>
+  <circle cx="120" cy="380" r="90" fill="#CCFBF1" opacity="0.6"/>
+
+  <!-- Educational floating elements -->
+  <!-- Pencil -->
+  <g transform="translate(110, 90) rotate(-25)">
+    <polygon points="0,0 20,-10 90,130 70,140" fill="#F59E0B"/>
+    <polygon points="70,140 90,130 96,145 76,155" fill="#F43F5E"/>
+    <polygon points="0,0 20,-10 6,15" fill="#FEF3C7"/>
+    <polygon points="0,0 6,15 2,2" fill="#1E293B"/>
+  </g>
+
+  <!-- Alphabet Blocks -->
+  <g transform="translate(80, 260)">
+    <!-- Block A -->
+    <rect x="0" y="30" width="55" height="55" rx="10" fill="#38BDF8"/>
+    <text x="27" y="68" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="900" font-size="28" fill="#FFFFFF">A</text>
+    <!-- Block 1 -->
+    <rect x="40" y="0" width="55" height="55" rx="10" fill="#F43F5E"/>
+    <text x="67" y="38" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="900" font-size="28" fill="#FFFFFF">1</text>
+    <!-- Block 2 -->
+    <rect x="45" y="60" width="55" height="55" rx="10" fill="#10B981"/>
+    <text x="72" y="98" text-anchor="middle" font-family="'Inter', sans-serif" font-weight="900" font-size="28" fill="#FFFFFF">2</text>
+  </g>
+
+  <!-- Big Central Open Book & Knowledge Tree -->
+  <g transform="translate(170, 240)">
+    <!-- Book Spine & Pages -->
+    <path d="M130 180 C80 160 30 165 0 175 L0 100 C30 90 80 85 130 105 Z" fill="#0284C7"/>
+    <path d="M130 180 C180 160 230 165 260 175 L260 100 C230 90 180 85 130 105 Z" fill="#0369A1"/>
+    <path d="M130 172 C80 152 32 157 5 167 L5 93 C32 83 80 78 130 98 Z" fill="#F8FAFC"/>
+    <path d="M130 172 C180 152 228 157 255 167 L255 93 C228 83 180 78 130 98 Z" fill="#F1F5F9"/>
+
+    <!-- Bookmark ribbon -->
+    <path d="M125 100 L125 190 L130 183 L135 190 L135 100 Z" fill="#F43F5E"/>
+  </g>
+
+  <!-- Student / Child Character reading -->
+  <g transform="translate(250, 100)">
+    <!-- Head -->
+    <circle cx="50" cy="50" r="32" fill="#FCD34D"/>
+    <!-- Hair -->
+    <path d="M20 45 C20 20 40 18 60 18 C78 18 82 32 82 45 C75 35 60 35 50 35 C40 35 25 38 20 45 Z" fill="#1E293B"/>
+    <!-- Smiling Eyes & Mouth -->
+    <circle cx="42" cy="48" r="3" fill="#1E293B"/>
+    <circle cx="62" cy="48" r="3" fill="#1E293B"/>
+    <path d="M46 58 Q52 64 58 58" stroke="#1E293B" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+    <circle cx="36" cy="56" r="3" fill="#FDA4AF" opacity="0.6"/>
+    <circle cx="68" cy="56" r="3" fill="#FDA4AF" opacity="0.6"/>
+    <!-- Torso / Yellow Hoodie -->
+    <path d="M22 84 C22 75 35 72 50 72 C65 72 78 75 78 84 L88 150 C75 155 25 155 12 150 Z" fill="#F59E0B"/>
+    <path d="M45 74 L50 90 L55 74 Z" fill="#FEF3C7"/>
+  </g>
+
+  <!-- Floating Stars & Math Symbols -->
+  <g transform="translate(420, 80)">
+    <!-- Star -->
+    <polygon points="25,5 31,18 45,20 35,30 38,44 25,37 12,44 15,30 5,20 19,18" fill="url(#sunGrad)"/>
+  </g>
+  <g transform="translate(460, 200)">
+    <!-- Plus symbol -->
+    <circle cx="20" cy="20" r="18" fill="#A855F7" opacity="0.9"/>
+    <rect x="18" y="11" width="4" height="18" rx="2" fill="#FFFFFF"/>
+    <rect x="11" y="18" width="18" height="4" rx="2" fill="#FFFFFF"/>
+  </g>
+  <g transform="translate(410, 320)">
+    <!-- Lightbulb for Discovery -->
+    <circle cx="24" cy="20" r="16" fill="#FACC15"/>
+    <rect x="19" y="34" width="10" height="7" rx="2" fill="#94A3B8"/>
+    <path d="M16 20 Q24 10 32 20" stroke="#CA8A04" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Subtitle Badge at bottom -->
+  <g transform="translate(180, 435)">
+    <rect x="0" y="0" width="240" height="36" rx="18" fill="#FFFFFF" filter="drop-shadow(0 4px 6px rgba(0,0,0,0.06))"/>
+    <circle cx="22" cy="18" r="8" fill="#10B981"/>
+    <text x="36" y="23" font-family="'Inter', sans-serif" font-weight="700" font-size="12" fill="#0F172A">Preschool • Academics • Navodaya</text>
+  </g>
+</svg>
